@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexa Szafranski\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
+    "C:\\Users\\Alexa Szafranski\\OneDrive\\Desktop\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexa Szafranski\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
+    "C:\\Users\\Alexa Szafranski\\OneDrive\\Desktop\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexa Szafranski\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa Szafranski\\OneDrive\\Desktop\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\Users\\Alexa Szafranski\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\Users\\Alexa Szafranski\\OneDrive\\Desktop\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\Alexa Szafranski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexa Szafranski\\EsepWebhook\\src\\EsepWebhook\\obj\\",
+        "outputPath": "C:\\Users\\Alexa Szafranski\\OneDrive\\Desktop\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexa Szafranski\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,6 +50,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
